@@ -1,0 +1,12 @@
+elm-stuff
+node_modules
+bak
+benchmark
+test
+assets
+locale
+build
+scss
+*.tgz
+assets/*.md
+*~
